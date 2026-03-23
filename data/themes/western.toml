@@ -1,0 +1,17 @@
+name = "Western"
+
+[light]
+  primary = "#2d3436"
+
+  menu_primary = "#2d3436"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(245, 245, 247)"
+
+[dark]
+  primary = "#b2bec3"
+  link = "#b2bec3"
+  link_hover = "#dfe6e9"
