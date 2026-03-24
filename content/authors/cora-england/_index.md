@@ -3,7 +3,7 @@ title: Cora England
 first_name: Cora
 last_name: England
 superuser: false
-role: Graduate Student
+role: MSc Student
 organizations:
   - name: University of Western Ontario
     url: ''

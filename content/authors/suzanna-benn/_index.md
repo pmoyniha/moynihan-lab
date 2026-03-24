@@ -3,7 +3,7 @@ title: Suzanna Benn
 first_name: Suzanna
 last_name: Benn
 superuser: false
-role: Graduate Student
+role: PhD Student
 organizations:
   - name: University of Western Ontario
     url: ''
