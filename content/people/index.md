@@ -10,6 +10,7 @@ sections:
       title: Meet the Team
       user_groups:
           - Principal Investigator
+          - Postdoctoral Researchers
           - Graduate Students
       sort_by: Params.last_name
       sort_ascending: true
