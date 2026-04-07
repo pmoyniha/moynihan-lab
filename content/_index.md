@@ -67,13 +67,13 @@ sections:
       title: Funding
       subtitle:
       text: |
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; padding: 1rem 0;">
-          <img src="media/funders/nserc.jpg" alt="NSERC" style="max-height: 70px; width: auto;">
-          <img src="media/funders/crc.png" alt="Canada Research Chairs" style="max-height: 70px; width: auto;">
-          <img src="media/funders/cfi.png" alt="CFI" style="max-height: 70px; width: auto;">
-          <img src="media/funders/wellcome.png" alt="Wellcome Trust" style="max-height: 70px; width: auto;">
-          <img src="media/funders/gates.png" alt="Bill & Melinda Gates Foundation" style="max-height: 70px; width: auto;">
-          <img src="media/funders/bbsrc.png" alt="BBSRC" style="max-height: 70px; width: auto;">
+        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; align-items: center; justify-items: center; gap: 2rem; padding: 1rem 0;">
+          <img src="/media/funders/nserc.jpg" alt="NSERC" style="max-height: 70px; width: auto;">
+          <img src="/media/funders/crc.png" alt="Canada Research Chairs" style="max-height: 70px; width: auto;">
+          <img src="/media/funders/cfi.png" alt="CFI" style="max-height: 70px; width: auto;">
+          <img src="/media/funders/wellcome.png" alt="Wellcome Trust" style="max-height: 70px; width: auto;">
+          <img src="/media/funders/gates.png" alt="Gates Foundation" style="max-height: 70px; width: auto;">
+          <img src="/media/funders/bbsrc.png" alt="BBSRC" style="max-height: 70px; width: auto;">
         </div>
     design:
       columns: '1'
