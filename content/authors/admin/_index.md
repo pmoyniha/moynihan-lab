@@ -16,7 +16,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: University of Sheffield
+      institution: University of Guelph
 social:
   - icon: envelope
     icon_pack: fas
