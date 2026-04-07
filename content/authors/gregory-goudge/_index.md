@@ -5,7 +5,7 @@ last_name: Goudge
 superuser: false
 role: Postdoctoral Researcher
 organizations:
-  - name: University of Western Ontario
+  - name: University of Birmingham
     url: ''
 bio: ''
 interests:
