@@ -1,7 +1,8 @@
 ---
 title: "A Type VII-secreted toxin enables inter-mycobacterial competition"
 authors:
-  - Samuel T. Benedict et al.
+  - Samuel T. Benedict
+  - "..."
   - admin
 date: "2026-03-26"
 publication_types: ["article-journal"]

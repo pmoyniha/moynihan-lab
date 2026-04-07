@@ -58,7 +58,7 @@ sections:
         folders:
           - publication
     design:
-      view: citation
+      view: list
       columns: '1'
 
   - block: markdown

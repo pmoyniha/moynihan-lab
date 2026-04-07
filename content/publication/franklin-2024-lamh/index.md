@@ -1,7 +1,8 @@
 ---
 title: "The mycobacterial glycoside hydrolase LamH enables capsular arabinomannan release and stimulates growth"
 authors:
-  - Aaron Franklin et al.
+  - Aaron Franklin
+  - "..."
   - admin
 date: "2024-07-09"
 publication_types: ["article-journal"]

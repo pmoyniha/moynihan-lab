@@ -1,7 +1,8 @@
 ---
 title: "Identification of D-arabinan-degrading enzymes in mycobacteria"
 authors:
-  - Omar Al-Jourani et al.
+  - Omar Al-Jourani
+  - "..."
   - admin
 date: "2023-04-19"
 publication_types: ["article-journal"]

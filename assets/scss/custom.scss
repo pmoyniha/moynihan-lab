@@ -43,3 +43,11 @@
   padding-top: 2rem !important;
   padding-bottom: 2rem !important;
 }
+
+// Fix et al. capitalization in publication lists
+.article-metadata .pub-authors {
+  text-transform: none !important;
+}
+.pub-authors span {
+  text-transform: none !important;
+}
