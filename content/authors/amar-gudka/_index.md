@@ -5,7 +5,7 @@ last_name: Gudka
 superuser: false
 role: PhD Student
 organizations:
-  - name: University of Western Ontario
+  - name: University of Birmingham
     url: ''
 bio: ''
 interests:
