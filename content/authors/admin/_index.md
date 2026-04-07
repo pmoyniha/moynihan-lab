@@ -18,6 +18,8 @@ education:
   courses:
     - course: PhD
       institution: University of Guelph
+    - course: MSc
+      institution: University of Guelph
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,4 +37,9 @@ user_groups:
 ---
 
 Patrick Moynihan is a faculty member in the Department of Microbiology & Immunology at the Schulich School of Medicine & Dentistry. His group studies how mycobacteria build, maintain, and deploy their complex cell envelopes, with a focus on capsule polysaccharides, glycoside hydrolase enzymology, and Type VII secretion-mediated interbacterial competition.
-  - Predatory bacteria
+
+### Previous Positions
+
+- BBSRC David Phillips Fellow — University of Birmingham (2019–2025)
+- BBSRC Future Leader Fellow — University of Birmingham (2016–2019)
+- Post Doctoral Research Associate (Laboratory of Professor Gurdyal Besra; University of Birmingham) (2014–2016)
