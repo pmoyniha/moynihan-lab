@@ -9,6 +9,8 @@ sections:
       title: |
         Moynihan
         Mycobacteriology Group
+      image:
+        filename: WebsiteFront.png
       text: |
         <br>
 
