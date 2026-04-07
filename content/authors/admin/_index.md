@@ -42,4 +42,4 @@ Patrick Moynihan is a faculty member in the Department of Microbiology & Immunol
 
 - BBSRC David Phillips Fellow — University of Birmingham (2019–2025)
 - BBSRC Future Leader Fellow — University of Birmingham (2016–2019)
-- Post Doctoral Research Associate (Laboratory of Professor Gurdyal Besra; University of Birmingham) (2014–2016)
+- Post Doctoral Research Associate; Laboratory of Professor Gurdyal Besra - University of Birmingham (2014–2016)
