@@ -25,6 +25,9 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=YNydx3oAAAAJ&hl=en
 email: ''
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4182-6223
 highlight_name: true
 user_groups:
   - Principal Investigator
