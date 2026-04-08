@@ -71,8 +71,8 @@
 @media (max-width: 768px) {
   .navbar {
     min-height: 70px !important;
-    padding-top: 0.75rem !important;
-    padding-bottom: 0.75rem !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
   }
   #navbar-main {
     min-height: 70px !important;
@@ -87,13 +87,13 @@
   }
   .navbar-brand::after {
     content: "Moynihan Lab";
-    font-size: 0.85rem;
+    font-size: 1.3rem;
     white-space: normal;
     line-height: 1.2;
   }
   .navbar .nav-link {
     font-size: 0.95rem !important;
-    padding-top: 0.75rem !important;
-    padding-bottom: 0.75rem !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
   }
 }
