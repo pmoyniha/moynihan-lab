@@ -97,3 +97,10 @@
     padding-bottom: 1rem !important;
   }
 }
+
+// Shrink contact page logo on mobile
+@media (max-width: 768px) {
+  .wg-markdown img[alt="Moynihan Lab"] {
+    max-width: 150px !important;
+  }
+}
