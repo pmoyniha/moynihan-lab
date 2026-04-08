@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |
-        <div style="display: flex; gap: 3rem; align-items: flex-start; flex-wrap: wrap; justify-content: center;">
+        <div style="display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap; justify-content: center;">
           <div style="flex: 1; min-width: 280px;">
             <p>We welcome enquiries from prospective graduate students and postdoctoral fellows interested in predatory bacteria, tuberculosis diagnostics, mycobacterial biology, glycobiology, and structural enzymology.</p>
             <p><strong>Email:</strong> <a href="mailto:pmoyniha@uwo.ca">pmoyniha@uwo.ca</a></p>
