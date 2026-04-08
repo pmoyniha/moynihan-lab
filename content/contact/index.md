@@ -8,7 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: We welcome enquiries from prospective graduate students and postdoctoral fellows interested in mycobacterial biology, glycobiology, and structural enzymology.
+      text: We welcome enquiries from prospective graduate students and postdoctoral fellows interested in predatory bacteria, tuberculosis diagnostics, mycobacterial biology, glycobiology, and structural enzymology.
       email: pmoyniha@uwo.ca
       address:
         street: Department of Microbiology & Immunology
