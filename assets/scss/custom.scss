@@ -71,8 +71,8 @@
 @media (max-width: 768px) {
   .navbar {
     min-height: auto !important;
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
   }
   #navbar-main {
     min-height: auto !important;
@@ -81,9 +81,9 @@
     max-width: 70% !important;
   }
   .navbar-brand::before {
-    width: 40px;
-    height: 40px;
-    min-width: 40px;
+    width: 55px;
+    height: 55px;
+    min-width: 55px;
   }
   .navbar-brand::after {
     content: "Moynihan Lab";
@@ -93,7 +93,7 @@
   }
   .navbar .nav-link {
     font-size: 0.95rem !important;
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
   }
 }
