@@ -99,20 +99,20 @@
 }
 
 
-// Shrink contact page logo on mobile
-@media (max-width: 768px) {
-  .wg-markdown img[alt="Moynihan Lab"] {
-    max-width: 150px !important;
-    display: block !important;
-    margin: 1rem auto 2rem auto !important;
-  }
-}
 
-// Stack contact page layout on mobile
+
+// Contact page mobile layout
 @media (max-width: 768px) {
   .wg-markdown div[style*="display: flex"] {
+    display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
     text-align: center !important;
+    gap: 1rem !important;
+  }
+  .wg-markdown img[alt="Moynihan Lab"] {
+    max-width: 150px !important;
+    display: block !important;
+    margin: 0 auto !important;
   }
 }
