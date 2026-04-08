@@ -1,35 +1,35 @@
 .navbar {
-  min-height: 80px !important;
-  padding-top: 1rem !important;
-  padding-bottom: 1rem !important;
+  min-height: 120px !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 .navbar-brand {
   display: inline-flex !important;
   align-items: center !important;
 }
 .navbar-brand img {
-  max-height: 100px;
+  max-height: 90px;
   width: auto !important;
   object-fit: contain;
 }
 .navbar-brand::after {
-  content: "Moynihan Lab";
-  margin-left: 0.5rem;
+  content: "Moynihan Mycobacteriology Group";
+  margin-left: 0.75rem;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   color: #ffffff;
   white-space: nowrap;
 }
 .navbar .nav-link {
-  font-size: 1rem !important;
-  padding-top: 1rem !important;
-  padding-bottom: 1rem !important;
+  font-size: 1.2rem !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 #navbar-main {
-  min-height: 80px !important;
+  min-height: 120px !important;
 }
 
-// Hero section — match image and text height
+// Hero section
 .wg-hero .row {
   align-items: center !important;
 }
@@ -44,10 +44,12 @@
   padding-bottom: 2rem !important;
 }
 
-// Fix et al. capitalization in publication lists
-.article-metadata .pub-authors {
+// Fix author name capitalization
+.pub-authors,
+.article-metadata {
   text-transform: none !important;
 }
-.pub-authors span {
+.pub-authors span,
+.article-metadata span {
   text-transform: none !important;
 }
