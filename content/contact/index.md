@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |
-        <div style="display: flex; gap: 3rem; align-items: flex-start; flex-wrap: wrap;">
-          <div style="flex: 1; min-width: 300px;">
+        <div style="display: flex; gap: 3rem; align-items: flex-start; flex-wrap: wrap; justify-content: center;">
+          <div style="flex: 1; min-width: 280px;">
             <p>We welcome enquiries from prospective graduate students and postdoctoral fellows interested in predatory bacteria, tuberculosis diagnostics, mycobacterial biology, glycobiology, and structural enzymology.</p>
             <p><strong>Email:</strong> <a href="mailto:pmoyniha@uwo.ca">pmoyniha@uwo.ca</a></p>
             <p><strong>Address:</strong><br>
@@ -19,8 +19,8 @@ sections:
             University of Western Ontario<br>
             London, Ontario, Canada</p>
           </div>
-          <div style="flex: 0 0 300px; text-align: center;">
-            <img src="/moynihan-lab/media/lab-logo.svg" alt="Moynihan Lab" style="max-width: 300px; width: 100%;">
+          <div style="min-width: 150px; max-width: 250px; margin: 1rem auto;">
+            <img src="/moynihan-lab/media/lab-logo.svg" alt="Moynihan Lab" style="width: 100%;">
           </div>
         </div>
     design:
