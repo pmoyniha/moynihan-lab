@@ -53,3 +53,10 @@
 .article-metadata span {
   text-transform: none !important;
 }
+
+// Reduce gap between contact sections
+.wg-markdown + .wg-contact,
+.wg-contact {
+  padding-top: 0 !important;
+  margin-top: -4rem !important;
+}
