@@ -3,7 +3,7 @@ title: Patrick Moynihan
 first_name: Patrick
 last_name: Moynihan
 superuser: true
-role: Assistant Professor & Canada Research Chair
+role: "Assistant Professor <br> Canada Research Chair"
 organizations:
   - name: University of Western Ontario
     url: 'https://www.uwo.ca'
