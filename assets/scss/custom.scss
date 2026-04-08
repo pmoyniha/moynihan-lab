@@ -107,3 +107,12 @@
     margin: 1rem auto 2rem auto !important;
   }
 }
+
+// Stack contact page layout on mobile
+@media (max-width: 768px) {
+  .wg-markdown div[style*="display: flex"] {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+}
