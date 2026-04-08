@@ -70,12 +70,12 @@
 // Mobile navbar fix
 @media (max-width: 768px) {
   .navbar {
-    min-height: auto !important;
+    min-height: 70px !important;
     padding-top: 0.75rem !important;
     padding-bottom: 0.75rem !important;
   }
   #navbar-main {
-    min-height: auto !important;
+    min-height: 70px !important;
   }
   .navbar-brand {
     max-width: 70% !important;
