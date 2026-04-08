@@ -19,7 +19,7 @@ sections:
             University of Western Ontario<br>
             London, Ontario, Canada</p>
           </div>
-          <div style="min-width: 150px; max-width: 250px; margin: 0 auto;">
+          <div style="min-width: 150px; max-width: 250px; margin: -1rem auto 0 auto;">
             <img src="/moynihan-lab/media/lab-logo.svg" alt="Moynihan Lab" style="width: 100%;">
           </div>
         </div>
