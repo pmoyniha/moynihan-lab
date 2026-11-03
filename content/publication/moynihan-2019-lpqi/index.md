@@ -9,5 +9,6 @@ publication: "*Nature Communications*, 10, 2647"
 links:
   - name: Paper
     url: https://doi.org/10.1038/s41467-019-10586-2
-featured: true
+featured: false
+draft: true
 ---

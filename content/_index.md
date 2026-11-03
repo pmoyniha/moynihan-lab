@@ -57,6 +57,7 @@ sections:
       filters:
         folders:
           - publication
+        featured_only: true
     design:
       view: list
       columns: '1'
