@@ -17,6 +17,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Undergraduate Researchers
+  - Lab Members
 ---
 
 Aimee studies inter-mycobacterial combat and Type VII secreted toxins.

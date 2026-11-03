@@ -17,6 +17,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Postdoctoral Researchers
+  - Lab Members
 ---
 
 Aaron studies capsule dynamics and carbohydrate biochemistry, with a focus on alpha-glucan.

@@ -34,6 +34,7 @@ email: ''
 highlight_name: true
 user_groups:
   - Principal Investigator
+  - Lab Members
 ---
 
 Patrick Moynihan is a faculty member in the Department of Microbiology & Immunology at the Schulich School of Medicine & Dentistry. His group studies how mycobacteria build, maintain, and deploy their complex cell envelopes, with a focus on capsule polysaccharides, glycoside hydrolase enzymology, and Type VII secretion-mediated interbacterial competition.

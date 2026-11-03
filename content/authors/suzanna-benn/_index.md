@@ -18,6 +18,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Suzanna studies mycobacterial enzymes that modify and degrade lipoarabinomannan.

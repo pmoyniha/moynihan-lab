@@ -18,6 +18,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Kamilla studies predatory bacteria, focusing on bacterial adhesion mechanisms using structural biology and microscopy approaches.

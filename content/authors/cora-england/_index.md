@@ -18,6 +18,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Cora is working on optimising next generation diagnostics for mycobacterial diseases.

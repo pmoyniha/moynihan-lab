@@ -17,6 +17,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Rana studies new families of bacterial toxins and their mechanisms of action.

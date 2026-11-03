@@ -18,6 +18,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Amar studies bacterial toxins and new enzymes targeting the mycobacterial cell envelope using protein biochemistry and structural biology.

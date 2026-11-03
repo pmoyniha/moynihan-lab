@@ -17,6 +17,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Postdoctoral Researchers
+  - Lab Members
 ---
 
 Arash studies the proteins and systems that govern mycobacterial capsule biology and cell wall turnover.

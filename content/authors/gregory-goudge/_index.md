@@ -17,6 +17,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Postdoctoral Researchers
+  - Lab Members
 ---
 
 Gregory is working on next-generation diagnostics for mycobacterial diseases, funded by the Bill & Melinda Gates Foundation.

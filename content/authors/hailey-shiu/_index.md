@@ -18,6 +18,7 @@ email: ''
 highlight_name: false
 user_groups:
   - Graduate Students
+  - Lab Members
 ---
 
 Hailey is interested in the proteins that predatory bacteria use to recognize their prey.
