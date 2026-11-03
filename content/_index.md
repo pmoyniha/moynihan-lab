@@ -53,7 +53,7 @@ sections:
     content:
       title: Recent Publications
       text: "[View all on Google Scholar →](https://scholar.google.com/citations?user=YNydx3oAAAAJ&hl=en)"
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
