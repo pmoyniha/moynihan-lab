@@ -3,8 +3,6 @@ title: "Host Cell Wall Polysaccharides Modulate Nanosynbacteria Recognition and 
 authors:
   - Alex S. Grossman
   - "..."
-  - admin
-  - "..."
   - Batbileg Bor
 date: "2026-10-06"
 publication_types: ["article"]

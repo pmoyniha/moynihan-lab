@@ -3,8 +3,6 @@ title: "Functional Differentiation of GH172 Arabinofuranosidases Through Diverge
 authors:
   - Jennifer Ross
   - "..."
-  - admin
-  - "..."
   - Elisabeth C. Lowe
 date: "2026-08-15"
 publication_types: ["article"]

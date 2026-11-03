@@ -3,8 +3,6 @@ title: "Direct targeting of the WAVE-regulatory complex and actin cytoskeleton b
 authors:
   - Hannah L. Burge
   - "..."
-  - admin
-  - "..."
   - Ian T. Cadby
 date: "2026-07-31"
 publication_types: ["article"]

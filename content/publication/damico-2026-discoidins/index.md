@@ -3,8 +3,6 @@ title: "Discoidins are cytosolic lectins that recognize methylated L-rhamnose ep
 authors:
   - Davide D’Amico
   - "..."
-  - admin
-  - "..."
   - Thierry Soldati
 date: "2026-06-19"
 publication_types: ["article"]

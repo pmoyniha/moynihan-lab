@@ -3,8 +3,6 @@ title: "High-throughput chemical genomic screening: a step-by-step workflow from
 authors:
   - Georgia Williams
   - "..."
-  - admin
-  - "..."
   - Manuel Banzhaf
 date: "2025-12-17"
 publication_types: ["article-journal"]

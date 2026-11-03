@@ -3,8 +3,6 @@ title: "Systematic chemical genomic screening of Vibrio cholerae maps gene-pheno
 authors:
   - James RJ Haycocks
   - "..."
-  - admin
-  - "..."
   - Manuel Banzhaf
 date: "2026-01-17"
 publication_types: ["article"]

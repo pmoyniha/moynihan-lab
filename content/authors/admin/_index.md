@@ -31,7 +31,7 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0003-4182-6223
 email: ''
-highlight_name: true
+highlight_name: false
 user_groups:
   - Principal Investigator
   - Lab Members

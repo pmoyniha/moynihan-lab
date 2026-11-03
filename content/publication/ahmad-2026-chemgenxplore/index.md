@@ -3,8 +3,6 @@ title: "ChemGenXplore: an interactive tool for exploring and analysing chemical 
 authors:
   - Huda Ahmad
   - "..."
-  - admin
-  - "..."
   - Manuel Banzhaf
 date: "2026-01-13"
 publication_types: ["article-journal"]

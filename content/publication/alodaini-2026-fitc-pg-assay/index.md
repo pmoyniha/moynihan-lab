@@ -2,8 +2,7 @@
 title: "In vitro peptidoglycan degradation assay using fluorescein-5-isothiocyanate-labelled sacculi"
 authors:
   - Dema Alodaini
-  - Adam Hart
-  - admin
+  - "..."
   - Manuel Banzhaf
 date: "2026-07-01"
 publication_types: ["article-journal"]

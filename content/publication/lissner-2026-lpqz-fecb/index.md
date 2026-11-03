@@ -3,8 +3,6 @@ title: "A new role for lipoproteins LpqZ and FecB in orchestrating mycobacterial
 authors:
   - Robin Lissner
   - "..."
-  - admin
-  - "..."
   - Wilbert Bitter
 date: "2026-01-14"
 publication_types: ["article-journal"]
