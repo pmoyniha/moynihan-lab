@@ -20,7 +20,7 @@ sections:
             London, Ontario, Canada</p>
           </div>
           <div style="min-width: 150px; max-width: 250px; margin: 0 auto 2rem auto;">
-            <img src="/moynihan-lab/media/lab-logo.svg" alt="Moynihan Lab" style="width: 100%;">
+            <img src="/media/lab-logo.svg" alt="Moynihan Lab" style="width: 100%;">
           </div>
         </div>
     design:

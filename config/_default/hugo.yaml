@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Moynihan Mycobacteriology Group # Website name
-baseURL: 'https://pmoyniha.github.io/moynihan-lab/' # Website URL
+baseURL: 'https://moynihanlab.ca/' # Website URL
 
 ############################
 ## LANGUAGE
